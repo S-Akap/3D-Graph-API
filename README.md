@@ -2,6 +2,8 @@
 
 このプロジェクトは、日本の自治体の人口、座標、標高に関する情報を提供するFlaskベースのAPIです。APIは、政府のオープンデータや地理データベースなど、さまざまなソースからデータを取得します。
 
+**サンプル** 東京都[https://architectural-digital-design.onrender.com/api/12](https://architectural-digital-design.onrender.com/api/12)
+
 ## 目次
 
 - [特徴](#特徴)
